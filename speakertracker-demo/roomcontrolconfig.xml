@@ -1,0 +1,20 @@
+﻿<Extensions>
+  <Version>1.4</Version>
+  <Panel>
+    <Icon>Camera</Icon>
+    <Type>Home</Type>
+    <Page>
+      <Name>Diagnostics</Name>
+      <Row>
+        <Name>SpeakerTrack Diagnostics</Name>
+        <Widget>
+          <WidgetId>speakertrackdemo</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+    <Name>SpeakerTrack Diagnostics</Name>
+  </Panel>
+</Extensions>

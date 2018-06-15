@@ -1,0 +1,37 @@
+﻿<Extensions>
+  <Version>1.4</Version>
+  <Panel>
+    <Icon>Camera</Icon>
+    <Type>Home</Type>
+    <Page>
+      <Name>PresenterTrack</Name>
+      <Row>
+        <Name>PresenterTrack Toggle</Name>
+        <Widget>
+          <WidgetId>presentertrack</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+    <Name>PresenterTrack</Name>
+  </Panel>
+  <Panel>
+    <Icon>Camera</Icon>
+    <Type>InCall</Type>
+    <Page>
+      <Name>PresenterTrack</Name>
+      <Row>
+        <Name>PresenterTrack Toggle</Name>
+        <Widget>
+          <WidgetId>presentertrack</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+    <Name>PresenterTrack</Name>
+  </Panel>
+</Extensions>
