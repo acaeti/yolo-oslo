@@ -1,0 +1,37 @@
+﻿<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>panel_1</PanelId>
+    <Type>InCall</Type>
+    <Icon>Camera</Icon>
+    <Order>1</Order>
+    <Color>#FFB400</Color>
+    <Name>Camera Selection</Name>
+    <Page>
+      <Name>Camera Control Selection</Name>
+      <Row>
+        <Name>Select Camera View</Name>
+        <Widget>
+          <WidgetId>camerastate</WidgetId>
+          <Type>GroupButton</Type>
+          <Options>size=4</Options>
+          <ValueSpace>
+            <Value>
+              <Key>quadcam</Key>
+              <Name>QC</Name>
+            </Value>
+            <Value>
+              <Key>p60</Key>
+              <Name>P60</Name>
+            </Value>
+            <Value>
+              <Key>quadcamp60</Key>
+              <Name>QC+P60</Name>
+            </Value>
+          </ValueSpace>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
