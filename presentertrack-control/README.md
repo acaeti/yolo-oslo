@@ -13,7 +13,7 @@ This sample gadget contains the following files:
 
 ## Requirements
 1. Cisco Video room device with PresenterTrack, e.g. SX-80, RoomKit Plus or RoomKit Pro
-2. Firmware CE9.2.1 or newer for SX-80, CE9.4.0 or newer for RoomKit Plus, TBD for RoomKit Pro
+2. Firmware CE9.2.1 or newer for SX-80, CE9.5.0 or newer for RoomKit Plus, CE9.5.0 for RoomKit Pro
 3. Admin user access to endpoint
 
 ## Usage

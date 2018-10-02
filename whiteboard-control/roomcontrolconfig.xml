@@ -1,0 +1,19 @@
+﻿<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>whiteboardControlOutOfCall</PanelId>
+    <Type>Home</Type>
+    <Icon>Input</Icon>
+    <Order>1</Order>
+    <Color>#D541D8</Color>
+    <Name>Whiteboard</Name>
+  </Panel>
+  <Panel>
+    <PanelId>whiteboardControlInCall</PanelId>
+    <Type>InCall</Type>
+    <Icon>Input</Icon>
+    <Order>2</Order>
+    <Color>#D541D8</Color>
+    <Name>Whiteboard</Name>
+  </Panel>
+</Extensions>
