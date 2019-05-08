@@ -1,0 +1,11 @@
+﻿<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>speedDial</PanelId>
+    <Type>Home</Type>
+    <Icon>Webex</Icon>
+    <Order>1</Order>
+    <Color>#FF7033</Color>
+    <Name>Speed Dial</Name>
+  </Panel>
+</Extensions>
